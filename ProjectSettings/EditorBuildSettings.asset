@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Menu.unity
+    guid: 910dd5d82b434334c9b2446ee07d1c07
+  - enabled: 1
+    path: Assets/_Scenes/Opening.unity
+    guid: ca7475daedb095644ac9075e94c9e62a
+  - enabled: 1
+    path: Assets/_Scenes/Peta.unity
+    guid: d1282642d970f014c8b5554acca291d1
+  - enabled: 1
+    path: Assets/_Scenes/Padang.unity
+    guid: 3253ea2f0f13e424490bf169be6d7fbc
+  - enabled: 1
+    path: Assets/_Scenes/Jakarta.unity
+    guid: edac729faaae52247b0247f3f1b60d5d
+  - enabled: 1
+    path: Assets/_Scenes/Makassar.unity
+    guid: 367ae3fa8128f164b9acbf757f8ec4ed
+  - enabled: 1
+    path: Assets/_Scenes/Papua.unity
+    guid: a4b81561c274e1d418a35d88fed1ba65
+  m_configObjects: {}
