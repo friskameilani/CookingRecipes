@@ -2,7 +2,9 @@
 Nama Pengembang : 1. G64170016 <Design, Artist>
                   2. G64170051 <>
                   3. G64170089 <Design, Artist, Coder>
+                  
 Screenshoot (3-4 gambar)
+
 Deskripsi :
   Cooking Recipes merupakan sebuah aplikasi permainan PC yang bertujuan untuk mengedukasi pemain 
   mengenai bumbu-bumbu masakan khas Indonesia dari berbagai kota disemua pulau Indonesia. Pemain
