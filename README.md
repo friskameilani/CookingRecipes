@@ -1,7 +1,7 @@
 # CookingRecipes
 Nama Pengembang : 1. G64170016 <Design, Artist>
-                  2. G64170051 <Design, Artist, Program>
-                  3. G64170089 <>
+                  2. G64170051 <>
+                  3. G64170089 <Design, Artist, Coder>
 Screenshoot (3-4 gambar)
 Deskripsi :
   Cooking Recipes merupakan sebuah aplikasi permainan PC yang bertujuan untuk mengedukasi pemain 
