@@ -7,9 +7,9 @@ Nama Pengembang :
 
 3. G64170089 <Design, Artist, Coder>
                   
-# Screenshoot (3-4 gambar)
+# Screenshoot
 
-# Deskripsi :
+# Deskripsi
   Cooking Recipes merupakan sebuah aplikasi permainan PC yang bertujuan untuk mengedukasi pemain 
   mengenai bumbu-bumbu masakan khas Indonesia dari berbagai kota disemua pulau Indonesia. Pemain
   akan mencari bumbu-bumbu masakan yang harus dicari berdasarkan list yang sudah diberikan. Game
@@ -17,7 +17,7 @@ Nama Pengembang :
   sudah menamatkan stage pertama. Karena bertujuan untuk mengenalkan masakan Indonesia, maka game 
   ini dibuat dengan menggunakan bahasa Indonesia tanpa tersedia jenis bahasa lainnya.
   
-# Cara Pemakaian :
+# Cara Pemakaian
   1. Setelah membuka aplikasi CookingRecipes pemain akan diberikan storyboard yang berisi intermezzo
      mengenai percakapan antar nenek-cucu yang harus di press 'next' untuk bisa melanjutkan permainan.
   2. Pemain akan melihat stage-stage yang ada berupa tombol yang dapat dipress, tombol ini tersebar di
@@ -34,7 +34,7 @@ Nama Pengembang :
   6. Namun jika waktu habis dan pemain belum menyelesaikan task yang ada maka permainan akan berakhir dan pemain 
      dapat mengulang permainan.
      
-# Teknologi/Stack :
+# Teknologi/Stack
   Game ini dikembangkan menggunakan Unity karena aplikasi ini merupakan salah satu aplikasi open source pengembang game
   yang dapat digunakan dimultiplatform sehingga memudahkan dalam berkolaborasi. Selain itu juga Unity juga didukung GUI 
   yang dapat memudahkan kita untuk mengedit dan membuat script. Design aplikasi ini menggunakan program editor grafis 
