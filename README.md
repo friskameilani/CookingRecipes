@@ -1,7 +1,11 @@
 # CookingRecipes
-Nama Pengembang : 1. G64170016 <Design, Artist>
-                  2. G64170051 <>
-                  3. G64170089 <Design, Artist, Coder>
+Nama Pengembang : 
+
+1. G64170016 <Design, Artist>
+
+2. G64170051 <>
+
+3. G64170089 <Design, Artist, Coder>
                   
 # Screenshoot (3-4 gambar)
 
