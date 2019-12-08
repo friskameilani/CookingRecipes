@@ -3,7 +3,7 @@ Nama Pengembang :
 
 1. G64170016 <Design, Artist>
 
-2. G64170051 <>
+2. G64170051 <Sound Artist>
 
 3. G64170089 <Design, Artist, Coder>
                   
