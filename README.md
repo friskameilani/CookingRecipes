@@ -6,7 +6,7 @@ Aplikasi permainan untuk belajar mengenal bumbu masak dengan cara yang menyenang
 NIM | NAMA | PEMBAGUAN TUGAS
 ------------ | ------------- | -------------
 G64170016 | Najemi Putriyanti | Deisgn, Artist
-G64170051 | Anniswa Widya A | Coder
+G64170051 | Annisa Widya A | Coder
 G64170089 | Friska Meilani | Design, Artist, Coder
 
 # Deskripsi
