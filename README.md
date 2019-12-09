@@ -1,6 +1,7 @@
 # CookingRecipes
 Aplikasi permainan untuk belajar mengenal bumbu masak dengan cara yang menyenangkan.
-\nLink demo : https://youtu.be/N9-cusrFKT8
+
+Link demo : https://youtu.be/N9-cusrFKT8
 
 # Nama Pengembang
 
