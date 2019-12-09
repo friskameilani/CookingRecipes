@@ -1,5 +1,3 @@
-![GitHub Logo](/Assets/Assets/Aset/LOGO 1.png)
-
 # CookingRecipes
 Aplikasi permainan untuk belajar mengenal bumbu masak dengan cara yang menyenangkan.
 
