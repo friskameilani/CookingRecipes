@@ -1,13 +1,13 @@
 # CookingRecipes
-Nama Pengembang : 
+Aplikasi permainan untuk belajar mengenal bumbu masak dengan cara yang menyenangkan.
 
-1. G64170016 <Design, Artist>
+# Nama Pengembang
 
-2. G64170051 <Sound Artist>
-
-3. G64170089 <Design, Artist, Coder>
-                  
-# Screenshoot
+NIM | NAMA | PEMBAGUAN TUGAS
+------------ | ------------- | -------------
+G64170016 | Najemi Putriyanti | Deisgn, Artist
+G64170051 | Anniswa Widya A | Coder
+G64170089 | Friska Meilani | Design, Artist, Coder
 
 # Deskripsi
   Cooking Recipes merupakan sebuah aplikasi permainan PC yang bertujuan untuk mengedukasi pemain 
