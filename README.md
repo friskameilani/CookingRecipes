@@ -19,7 +19,7 @@ G64170089 | Friska Meilani | Design, Artist, Coder
   sudah menamatkan stage pertama. Karena bertujuan untuk mengenalkan masakan Indonesia, maka game 
   ini dibuat dengan menggunakan bahasa Indonesia tanpa tersedia jenis bahasa lainnya.
   
-# Cara Pemakaian
+# Cara Bermain
   1. Setelah membuka aplikasi CookingRecipes pemain akan diberikan storyboard yang berisi intermezzo
      mengenai percakapan antar nenek-cucu yang harus di press 'next' untuk bisa melanjutkan permainan.
   2. Pemain akan melihat stage-stage yang ada berupa tombol yang dapat dipress, tombol ini tersebar di
